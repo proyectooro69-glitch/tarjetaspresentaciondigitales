@@ -1,0 +1,22 @@
+CAIMANPOS NUEVA - COMO PUBLICARLA
+====================================
+Esta carpeta es la nueva versión de caimanpos.com, con:
+- Música de CaimánPOS (botón Música, abajo a la derecha)
+- Chatbot "Pregúntame" (abajo a la izquierda)
+- Sección nueva "Páginas web a medida" con 2 videos de ejemplo genérico
+- SIN precios en los paquetes: en cada plan dice "Según tu país"
+  y debajo dice: "El precio se ajusta según el país donde te
+  encuentres — lo conversamos y lo ajustamos contigo."
+- El ejemplo es GENÉRICO, sin nombre, dirección ni teléfono real.
+
+PARA PUBLICAR EN NETLIFY (como hiciste con Curu):
+1. Descomprime esta carpeta en tu teléfono o computadora.
+2. Entra a Netlify, abre tu sitio caimanpos.com, ve a Deploys.
+3. Arrastra TODA la carpeta (index.html + musica.mp3 + carpeta videos)
+   sobre la zona de Deploys.
+4. Espera a que diga Published y abre caimanpos.com en tu teléfono.
+5. Prueba: botón Música, botón Pregúntame, sección Páginas web,
+   los 2 videos, y que en Planes ya no salgan precios.
+
+NOTA: No borres la versión vieja hasta verificar la nueva en tu teléfono.
+Los videos pesan poco (promo 1,8 MB, showcase 0,9 MB) para que abran rápido.
